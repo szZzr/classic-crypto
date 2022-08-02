@@ -1,0 +1,2 @@
+GVVFRTUNH: [634, 2380, 1558]  -->length:10, repeats:3
+GZPN: [2984, 1098, 2837, 3096, 3068, 2431] -->length:4, repeats:6 => GCD: 7
